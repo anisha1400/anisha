@@ -1,5 +1,5 @@
 numpy 
-import pandas 
+pandas 
 seaborn
 xgboost
 scikit-learn
